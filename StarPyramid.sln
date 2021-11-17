@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarPyramid", "StarPyramid\StarPyramid.csproj", "{A8EAF21A-CB96-4E71-A56F-7D3B6AFEF787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8EAF21A-CB96-4E71-A56F-7D3B6AFEF787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EAF21A-CB96-4E71-A56F-7D3B6AFEF787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EAF21A-CB96-4E71-A56F-7D3B6AFEF787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EAF21A-CB96-4E71-A56F-7D3B6AFEF787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2918499C-BEA3-48EC-86C4-41E57133D569}
+	EndGlobalSection
+EndGlobal
